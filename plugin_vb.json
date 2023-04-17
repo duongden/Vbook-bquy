@@ -23,8 +23,8 @@
       "source": "http://sangtacviet.com",
       "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/icon.png",
       "description": "STV Home",
-      "type": "chinese_novel",
-      "locale": "zh_CN"
+      "type": "novel",
+      "locale": "vi_VN"
     } ,
    {
       "name": "Yushubo",
@@ -133,6 +133,17 @@
       "source": "https://cn.ttkan.co/",
       "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/icon.png",
       "description": "ttkan",
+      "type": "chinese_novel",
+      "locale": "zh_CN"
+    } ,
+   {
+      "name": "ibiqu",
+      "author": "bqy",
+      "path": "https://github.com/BanQuyY/Vbook/blob/main/Ibiqu/Ibiqu.zip?raw=true",
+      "version": 1,
+      "source": "http://www.ibiqu.org/",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/icon.png",
+      "description": "ibiqu",
       "type": "chinese_novel",
       "locale": "zh_CN"
     } 
