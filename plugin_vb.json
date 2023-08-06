@@ -25,6 +25,17 @@
       "description": "STV Home",
       "type": "novel",
       "locale": "vi_VN"
+    },
+   {
+      "name": "STV",
+      "author": "bqy",
+      "path": "https://github.com/BanQuyY/Vbook/raw/main/stv/STV.zip?raw=true",
+      "version": 2,
+      "source": "http://sangtacviet.vip",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/icon.png",
+      "description": "STV",
+      "type": "novel",
+      "locale": "vi_VN"
     } ,
    {
       "name": "Yushubo",
@@ -137,15 +148,18 @@
       "locale": "zh_CN"
     } ,
    {
-      "name": "ibiqu",
+      "name": "778buy",
       "author": "bqy",
-      "path": "https://github.com/BanQuyY/Vbook/blob/main/Ibiqu/Ibiqu.zip?raw=true",
+      "path": "https://github.com/BanQuyY/Vbook/raw/main/778buy/778buy.zip?raw=true",
       "version": 1,
-      "source": "http://www.ibiqu.org/",
+      "source": "https://www.778buy.cc/",
       "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/uukanshu/icon.png",
-      "description": "ibiqu",
+      "description": "778buy.cc",
       "type": "chinese_novel",
       "locale": "zh_CN"
-    } 
+    }
+
+   
 ]
-}
+   }
+     
